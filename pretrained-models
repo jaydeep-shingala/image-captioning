@@ -1,0 +1,10 @@
+if you just want to use pretrained models without trianing in your own data using this code then you can download pretrained models given here:
+for visual feature extractions: 
+1. https://indianinstituteofscience-my.sharepoint.com/:u:/g/personal/jaydeeps_iisc_ac_in/EU07cGabQcNDgiC3Ta6SJb8BjH-8VRVLm-maeip3LSZqww?e=B3UEVJ
+2. https://indianinstituteofscience-my.sharepoint.com/:u:/g/personal/jaydeeps_iisc_ac_in/ER0y-pK1JrpLtxsM9bOzygoBojMGftc8M6whuApdbNvBXQ?e=dToEO6
+
+for caption text generation (Attention):
+1. https://indianinstituteofscience-my.sharepoint.com/:u:/g/personal/jaydeeps_iisc_ac_in/EemjX4lajUpGv588DXMLRoEBr98nAXN26jDOjo5OC5uZuQ?e=XOsOqH
+
+Now put them in any folder and run image_caption_inference.py
+* Please do not forget to change paths accordingly into file
